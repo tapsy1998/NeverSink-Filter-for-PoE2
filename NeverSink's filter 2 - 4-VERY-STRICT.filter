@@ -2588,7 +2588,7 @@ Hide # %H1 $type->currency $tier->supplieslow
 	SetFontSize 35
 	SetTextColor 170 158 130
 
-Hide # $type->currency $tier->exhide
+Show # $type->currency $tier->exhide
 	Class == "Stackable Currency"
 	BaseType == "Alchemy Shard" "Arcanist's Etcher" "Armourer's Scrap" "Artificer's Orb" "Artificer's Shard" "Black Scythe Artifact" "Blacksmith's Whetstone" "Broken Circle Artifact" "Chance Shard" "Chaos Orb" "Exalted Orb" "Exotic Coinage" "Fracturing Orb" "Gemcutter's Prism" "Glassblower's Bauble" "Lesser Jeweller's Orb" "Orb of Alchemy" "Orb of Annulment" "Orb of Augmentation" "Orb of Chance" "Orb of Transmutation" "Order Artifact" "Regal Orb" "Regal Shard" "Scroll of Wisdom" "Sun Artifact" "Transmutation Shard" "Vaal Orb"
 	SetFontSize 18
